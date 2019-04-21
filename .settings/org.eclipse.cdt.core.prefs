@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+environment/project/0.1359599596/IDF_PATH/delimiter=\:
+environment/project/0.1359599596/IDF_PATH/operation=append
+environment/project/0.1359599596/IDF_PATH/value=/home/samarino/esp/esp-idf
+environment/project/0.1359599596/PATH/delimiter=\:
+environment/project/0.1359599596/PATH/operation=append
+environment/project/0.1359599596/PATH/value=${PATH}\:/home/samarino/esp/xtensa-esp32-elf/bin
+environment/project/0.1359599596/append=true
+environment/project/0.1359599596/appendContributed=true
+environment/project/0.254715626/IDF_PATH/delimiter=\:
+environment/project/0.254715626/IDF_PATH/operation=replace
+environment/project/0.254715626/IDF_PATH/value=/home/samarino/esp/esp-idf
+environment/project/0.254715626/PATH/delimiter=\:
+environment/project/0.254715626/PATH/operation=replace
+environment/project/0.254715626/PATH/value=${PATH}\:/home/samarino/esp/xtensa-esp32-elf/bin
+environment/project/0.254715626/append=true
+environment/project/0.254715626/appendContributed=true
